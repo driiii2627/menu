@@ -1,0 +1,34 @@
+tamanh do background do menu em px:
+1323 px x 784 px (300 dpi)
+
+
+
+
+tamanho do tab:
+226 px x 54 px (300 dpi)
+
+
+
+
+tamanho da indicação da tab:
+11 px x 31 px (300 dpi)
+
+
+
+tamanho dos icons do tab:
+27 px x 29 px (300 dpi)
+
+como funciona o sistema de tabs:
+1. quando a tab esta selecionada ela fica com o nome, ícone, "indicação de tab selecionada", "tab do menu quando selecionado" 
+
+2. quando a tab não esta selecionada, aparece apenas, ícone e nome
+
+
+
+tamanhos dos textos:
+
+1. textos dentro das tabs:
+font: https://mottatiin.services/menus/mysticMenu/font/barlow-semibold.ttf
+
+tamanho: 6,56 pt
+
