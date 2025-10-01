@@ -22,13 +22,20 @@ end
 -- Função para carregar assets
 function menu.loadAssets()
     -- Carregar imagens de background
-    menu.background = "assets/base do menu, background.png"
-    menu.logo = "assets/logo menu/logo menu.png"
-    menu.playerIcon = "assets/icons menu/icon da boneco jogador.png"
+    menu.background = "assets/baseback.png"
+    menu.logo = "assets/logomenu/logo.png"
+    menu.playerIcon = "assets/iconsmenu/jogador.png"
     
     -- Carregar elementos de interface
-    menu.tabSelected = "assets/tab/indicação de tab selecionada.png"
-    menu.tabNormal = "assets/tab/tab do menu quando selecionado.png"
+    menu.tabSelected = "assets/tab/indicacaotab1.png"
+    menu.tabNormal = "assets/tab/tabselecionada1.png"
+    
+    -- Carregar elementos da área de funções
+    menu.functionsBackground = "assets/partefuncoes/back2porcimadoback1.png"
+    menu.divider = "assets/partefuncoes/divisoriatabfunc.png"
+    
+    -- Carregar referência visual
+    menu.reference = "assets/comodeveficar/versaofinal.png"
 end
 
 -- Função para configurar interface
